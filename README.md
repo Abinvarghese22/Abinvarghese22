@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/AbhiramAK8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourtwitterhandle" height="30" width="40" /></a>
 <a href="https://www.instagram.com/___abin__varghese___?igsh=anpwNnVia2hpYzNm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourinstagramhandle" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abhiram.sfc.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebookpage" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abin.varghese.336333?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebookpage" height="30" width="40" /></a>
 
 <!-- Add other social media links as necessary -->
 </p>
