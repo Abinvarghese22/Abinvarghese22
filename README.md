@@ -30,7 +30,7 @@
 
 <!-- Add other social media links as necessary -->
 </p>
-![Snake Animation](https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Abinvarghese22/Abinvarghese22/output/snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
